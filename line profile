@@ -1,0 +1,10 @@
+I have followed the tutorial for drawing aline profile 
+https://mtex-toolbox.github.io/EBSDProfile.html
+With my own ebsd data and that built in to the system but i get the error 
+Index exceeds the number of array elements (1).
+
+Error in plot (line 29)
+    if isnumeric(varargin{2})
+    
+    can anyone help 
+    
